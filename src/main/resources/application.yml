@@ -1,6 +1,5 @@
 spring.application.name=salon-api
 
-# Cambia /salon por /salon-api
 spring.datasource.url=jdbc:postgresql://localhost:5432/salon-api
 spring.datasource.username=postgres
 spring.datasource.password=1234
